@@ -41,6 +41,7 @@ public class BankTest {
         bank.addCustomer(bill);
 
         bill.deposit(1500.0, savingsAccount);
+    }
 
 	//Test if a maxi savings account was made using interest rate
     @Test
@@ -51,6 +52,7 @@ public class BankTest {
         bank.addCustomer(bill);
 
         bill.deposit(3000.0, maxiSavingsAccount);
+    }
 
 	//Test for the getFirstCustomer() function
 	@Test
