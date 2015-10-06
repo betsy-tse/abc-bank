@@ -11,11 +11,8 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-<<<<<<< HEAD
-	<maven.compiler.target>1.6</maven.compiler.target>
-	<maven.compiler.source>1.6</maven.compiler.source>
-=======
->>>>>>> 904098dd6376871b53f0db7560eb02526c92d0b4
+	    <maven.compiler.target>1.6</maven.compiler.target>
+    	<maven.compiler.source>1.6</maven.compiler.source>
     </properties>
 
     <dependencies>
